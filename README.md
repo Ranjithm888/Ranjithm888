@@ -50,22 +50,14 @@ I am a passionate **Java Full Stack Developer** with deep expertise in the **Spr
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjithm888&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Ranjith's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjithm888&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Ranjith's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjithm888&theme=radical&hide_border=true" alt="Ranjith's GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithm888&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ranjithm888&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="Trophies" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ranjithm888&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
 </div>
 
 ---
