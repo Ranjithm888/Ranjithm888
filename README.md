@@ -42,7 +42,7 @@ I am a passionate **Java Full Stack Developer** with deep expertise in the **Spr
   <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,bootstrap&perline=8" alt="Languages and Frameworks" />
   <br><br>
   <p><strong>Databases, Tools & Cloud</strong></p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,jenkins,aws,git,github,postman,idea,vscode&perline=11" alt="Tools and Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,jenkins,aws,git,github,idea,vscode&perline=11" alt="Tools and Cloud" />
 </div>
 
 ---
@@ -70,10 +70,10 @@ I am a passionate **Java Full Stack Developer** with deep expertise in the **Spr
 
 ---
 
-## 🐍 Contributions Graph
+## ⚡ Coding Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ranjithm888/Ranjithm888/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="400" />
 </div>
 
 <br>
