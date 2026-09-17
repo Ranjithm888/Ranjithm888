@@ -45,20 +45,7 @@ I am a passionate **Java Full Stack Developer** with deep expertise in the **Spr
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,jenkins,aws,git,github,idea,vscode&perline=11" alt="Tools and Cloud" />
 </div>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ranjithm888&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Ranjith's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjithm888&theme=radical&hide_border=true" alt="Ranjith's GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ranjithm888&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
-</div>
 
 ---
 
